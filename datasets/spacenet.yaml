@@ -9,9 +9,9 @@ Tags:
   - computer vision
   - machine learning
   - earth observation
-License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+License: Various: Please see individual datasets licenses at https://spacenetchallenge.github.io/datasets/datasetHomePage.html
 Resources:
-  - Description: Imagery and metadata in a Requester Pays S3 bucket
+  - Description: Data Repository of Imagery and machine learning labels in a S3 bucket
     ARN: arn:aws:s3:::spacenet-dataset
     Region: us-east-1
     Type: S3 Bucket
